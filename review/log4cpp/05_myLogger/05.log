@@ -1,0 +1,7 @@
+2025-01-17 13:34:09,229 name [WARN] [05_test.cc:test0:9]The log is warn message
+2025-01-17 16:03:33,520 name [WARN] [05_test.cc:test0:9]The log is warn message
+2025-03-06 17:34:16,966 name [WARN] [05_test.cc:test0:10]The log is warn message
+2025-03-06 17:37:45,450 name [WARN] [05_test.cc:test1:14]The log is warn message
+2025-03-06 17:37:45,451 name [INFO] [05_test.cc:test1:15]The log is info message
+2025-03-06 17:37:45,451 name [DEBUG] [05_test.cc:test1:16]The log is debug message
+2025-03-06 17:37:45,452 name [ERROR] [05_test.cc:test1:17]The log is error message

@@ -1,0 +1,6 @@
+2024-07-24 20:13:41,120 log [WARN] customSignalLog.cc : test0 : 80 : The log is info message
+2024-07-24 20:13:41,120 log [INFO] customSignalLog.cc : test0 : 81 : The log is info message
+2024-07-24 20:13:41,120 log [ERROR] customSignalLog.cc : test0 : 82 : The log is info message
+2024-07-24 20:13:41,120 log [WARN] customSignalLog.cc : test0 : 85 : The log is info message
+2024-07-24 20:13:41,120 log [ERROR] customSignalLog.cc : test0 : 86 : The log is error message
+2024-07-24 20:13:41,120 log [WARN] customSignalLog.cc : test0 : 87 : The log is warn message
